@@ -1,0 +1,8 @@
+---
+title: "Our Mission"
+---
+The Coulee Data Center (CDC) was founded in 2025. Our mission is to: 
+
+*"...deliver actionable, data-driven insights at no cost to non-profit organizations, community-focused groups, and public services in the Coulee region of Southwestern Wisconsin and Southeastern Minnesota, empowering them to make informed decisions and amplify their impact."*
+
+Each semester the CDC collaborates with a local partner on a data analysis project. Find out more about [our projects](projects.qmd), [becoming a partner](become_a_partner.qmd), and [meet our team](meet_our_team.qmd)! 

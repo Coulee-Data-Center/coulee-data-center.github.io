@@ -1,0 +1,35 @@
+---
+title: "Join the Center"
+---
+
+Due to limited resources, our team is relatively small. We house a director and three student data scientist positions. 
+
+Positions in the center do open regularly, so interested students are encouraged to reach out to our director, David Elzinga: <a href="mailto:delzinga@uwlax.edu.com">delzinga@uwlax.edu</a>.
+
+### What's in it for you? 
+
+- This is a great opportunity to get hands-on with a real-world data problem. You can discuss your experiences on these projects when you're searching for jobs.
+
+- You get to give back to your community with your work making a real impact! 
+
+- You'll gain valuable skills in programming, machine learning, statistics, data visualization, version management software (git), documentation, communication, working in a team, and more!
+
+Funding wise, for the time being, these positions are generally unfunded (grant applications to change that are in the works). Funding may be possible with significant lead-time via internal scholarship applications. 
+
+### Qualifications
+
+:::: {.columns}
+
+::: {.column width="50%"}
+- Love data  
+- Love programming  
+- Love helping your community  
+:::
+
+::: {.column width="50%"}
+- Love working in a team  
+- Love learning new skills  
+- Love being challenged  
+:::
+
+:::

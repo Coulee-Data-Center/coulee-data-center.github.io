@@ -1,0 +1,11 @@
+---
+title: "Coulee Data Center"
+---
+
+The Coulee Data Center (CDC) is a community-focused data science organization. We partner with organizations in the Coulee region to amplify their impact by providing free data analysis.
+
+On this website you can [learn more about us](about.qmd), [follow our work](projects.qmd), [become a partner](become_a_partner.qmd), [and even join our team](meet_our_team.qmd). 
+
+<div style="text-align: center; margin-top: 40px;">
+  <img src="_images/main_logo.png" alt="CDC Logo" style="height: 150px;">
+</div>

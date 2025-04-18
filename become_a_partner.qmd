@@ -1,0 +1,54 @@
+---
+title: "Become a Partner"
+---
+
+We provide free data insights to organizations that are non-profits, community-focused, or provide public services, within the coulee community of southeastern Minnesota and southwestern Wisconsin. 
+
+## The Process 
+
+- All partnerships begin by contacting our director, David Elzinga, via email: <a href="mailto:delzinga@uwlax.edu.com">delzinga@uwlax.edu</a>. 
+
+- After contacting us, we'll plan a meeting to discuss your needs. If the partnership seems like a good fit, your project will be assigned to an academic semester. 
+
+- Leading up to the semester, you'll work with the director to collect your data and define your goals. During the semester, our entire center (three students and one director) will work on your analysis, with occasional meetings with you to discuss progress and ask questions. 
+
+- At the end of your semester you'll be delivered all of our results in whatever format is easiest for you. All of our analysis is publicly available, and may be published in scientific journals, but any sensitive data can be hidden at your request. 
+
+## FAQs
+
+<details>
+  <summary>Is it really free?</summary>
+  Yes.
+</details>
+
+<details>
+  <summary>What kinds of analysis are possible?</summary>
+  All kinds! We do everything from basic data organization to general statistics, data visualization, and machine learning. In generic terms, here is a non-exhaustive list of what we can help with:
+
+  - Discovering trends in your data (seasonally, geographically, historically) and projecting them into the future.  
+  - Predicting outcomes that are yet to happen.  
+  - Identifying natural groupings among your observations.  
+  - Maximizing or minimizing some important quantity.  
+
+  Check out our [past and current projects](projects.qmd) for your reference.
+</details>
+
+<details>
+  <summary>Who is working on my project?</summary>
+  We house one faculty director and three student data scientists. All workers in the CDC are vetted for a commitment to rigorous ethics and community service. We are a group of data-loving people who have the educational and professional backgrounds to handle your project. [Meet our team](meet_our_team.qmd)!
+</details>
+
+<details>
+  <summary>How is my data protected?</summary>
+  If you notify us that part (or all) of your data is sensitive, we'll work with you to limit access to only our team members. Otherwise, we believe in open-access science whenever possible, and all non-sensitive data is publicly available.
+</details>
+
+<details>
+  <summary>I don't have any data, is that okay?</summary>
+  Maybe. We don't do "boots-on-the-ground" data collection services, but we are more than happy to help you with data collection guidelines. We are also experienced with scraping data off publicly available web sources if you're aware of any relevant sites.
+</details>
+
+<details>
+  <summary>My data is messy, is that okay?</summary>
+  Yes, we love all data! Our team is experienced with cleaning, merging, and validating data.
+</details>

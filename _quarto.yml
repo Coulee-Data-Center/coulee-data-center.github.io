@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "<img src='_images/banner_logo.png' alt='CDC Logo' style='height: 30px;'>"
+  page-footer:
+    background: "#F8F9FA" 
+    border: true          
+    left: "© 2025 Coulee Data Center"
+    right: "[Contact Us](mailto:delzinga@uwlax.edu)"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - meet_our_team.qmd
+      - projects.qmd
+      - become_a_partner.qmd
+      - join_the_center.qmd
+    right:
+      - icon: github
+        href: "https://github.com/Coulee-Data-Center/"
+
+
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    anchor-links: false
+    toc: true
+
+
+

@@ -1,0 +1,25 @@
+---
+title: "Projects"
+---
+
+Below is a list of our ongoing and previous projects. Interested in becoming a partner? [Learn more](become_a_partner.qmd) about setting up a project! 
+
+<br>
+
+## Habitat for Humanity (Spring 2025)
+
+<img src="_images/habitat.png" 
+     style="float: right; margin-left: 15px; margin-top: 12px; width: 256px; height: 133px; object-fit: cover; 
+            border-radius: 15px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); vertical-align: top;">
+
+This work is wrapping up! We are excited to have worked with [Habitat for Humanity of the Greater La Crosse Region](https://www.habitatlacrosse.org/) ("habitat") on our inaugural project!
+
+We are producing a historical review of the impact habitat has had on our communities. We're synthesizing information on property taxes, home values, construction costs, and more!
+
+<img src="_images/habitat_team.jpg" 
+     style="float: left; margin-right: 15px; margin-top: 12px; width: 300px; height: 300px; object-fit: cover; 
+            border-radius: 15px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); vertical-align: top;">
+
+Habitat will be able to use our report as a clear, objective, data-based measurement of their impact, hopefully aiding in their ability to secure competitive grants, reduce costs, and amplify their impact.
+
+Our final report will be posted here by the end of May 2025. Pictured is our team presenting initial findings with Kahya Fox, the Executive Director of Habitat for Humanity. 

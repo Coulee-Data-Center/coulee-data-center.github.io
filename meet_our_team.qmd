@@ -1,0 +1,64 @@
+---
+title: "Meet Our Team"
+toc: false
+anchor-links: false
+format: html
+---
+
+<img src="_images/david_elzinga.jpg" 
+     style="float: left; margin-right: 15px; margin-top: 12px; width: 175px; height: 175px; object-fit: cover; 
+            border-radius: 15px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); vertical-align: top;">
+
+### David Elzinga 
+<p>*Director and Founder, Jan. 2025 - Present*
+
+Ph.D. in Mathematics and M.S. in Statistics, 2023
+
+I am passionate about serving my community, helping students, and data analysis - and the CDC combines all three! </p>
+
+---
+
+<img src="_images/julia_haas.jpg" 
+     style="float: left; margin-right: 15px; margin-top: 12px; width: 175px; height: 175px; object-fit: cover; 
+            border-radius: 15px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); vertical-align: top;">
+
+
+### Julia Haas <a href="https://www.linkedin.com/in/julia-haas1" style="text-decoration: none;">🌐</a>
+
+<p>*Data Scientist, Jan. 2025 - Present*
+
+M.S. in Applied Statistics 2026
+
+Projects: Habitat for Humanity</p>
+
+<br>
+
+<img src="_images/maddy_rilling.jpg" 
+     style="float: left; margin-right: 15px; margin-top: 12px; width: 175px; height: 175px; object-fit: cover; 
+            border-radius: 15px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); vertical-align: top;">
+
+
+### Maddy Rilling <a href="https://www.linkedin.com/in/maddy-rilling/" style="text-decoration: none;">🌐</a> 
+
+<p>*Data Scientist, Jan. 2025 - Present*
+
+M.S. in Applied Statistics 2026
+
+Projects: Habitat for Humanity</p>
+
+<br>
+
+<img src="_images/james_spalding.jpeg" 
+     style="float: left; margin-right: 15px; margin-top: 12px; width: 175px; height: 175px; object-fit: cover; 
+            border-radius: 15px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); vertical-align: top;">
+
+
+### James Spalding <a href="github.com/jamesspalding" style="text-decoration: none;">🌐</a> 
+
+<p>*Data Scientist, Jan. 2025 - Present*
+
+M.S. in Applied Statistics 2025
+
+Projects: Habitat for Humanity</p>
+
+
