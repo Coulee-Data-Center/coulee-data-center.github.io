@@ -22,4 +22,4 @@ We are producing a historical review of the impact habitat has had on our commun
 
 Habitat will be able to use our report as a clear, objective, data-based measurement of their impact, hopefully aiding in their ability to secure competitive grants, reduce costs, and amplify their impact. 
 
-Pictured is our team presenting initial findings with Kahya Fox, the Executive Director of Habitat for Humanity. The final report can be found [here](https://github.com/Coulee-Data-Center/coulee-data-center.github.io/blob/main/_reports/habitat.pdf)
+Pictured is our team presenting initial findings with Kahya Fox, the Executive Director of Habitat for Humanity. The final report can be found [here](https://github.com/Coulee-Data-Center/coulee-data-center.github.io/blob/main/_reports/habitat.pdf).
